@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Documentation contributor links
-// @namespace    http://github.com/Vogel612
+// @namespace    http://github.com/Vogel612/mini-se-userscripts/documentation-contributor-breakdown
 // @version      0.1
 // @description  Add links to the contributor breakdown for topics and examples on stackoverflow documentation.
 // @author       Vogel612
